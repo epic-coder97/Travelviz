@@ -3,8 +3,8 @@ import openai
 import datetime
 
 # Set up OpenAI API credentials
-openai.api_key = "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"
-
+#openai.api_key = "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"
+openai.api_key = st.secrets["api_key"]
 # Define a function to generate an itinerary for a given day
 def generate_itinerary(start_loc, end_loc, days):
     # Use GPT-3 API to generate itinerary
