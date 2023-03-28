@@ -10,37 +10,36 @@ To use this application, you must first clone this repository to your local mach
 
 Once the repository is cloned, navigate to the project directory and create a virtual environment by running the following command:
 
-'''
+```
 {
 python -m venv venv
 }
-'''
+```
 Activate the virtual environment by running the following command:
 
 bash
-Copy code
+```
 source venv/bin/activate
+```
 Install the required packages by running the following command:
 
-'''
+```
 pip install -r requirements.txt
 
-'''
+```
 Usage
 To run the application, navigate to the project directory in your terminal and activate the virtual environment by running the following command:
 
 bash
-'''
+```
 
 source venv/bin/activate
 
-'''
+```
 Then, run the following command to start the Streamlit server:
 
-arduino
-Copy code
-streamlit run app.py
+```streamlit run app.py ```
 This should open a new tab in your web browser with the application running. Enter the required inputs and click on the "Generate Itinerary" button to generate your travel itinerary.
 
-Credits
+## Credits
 This application was developed using the Streamlit framework and the OpenAI GPT-3 API for text generation.
