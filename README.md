@@ -6,16 +6,14 @@ This is a simple Streamlit web application that generates a travel itinerary bas
 Installation
 To use this application, you must first clone this repository to your local machine. You can do this by running the following command in your terminal:
 
-bash
 
-''' git clone https://github.com/<username>/<repository>.git
-'''
 
 Once the repository is cloned, navigate to the project directory and create a virtual environment by running the following command:
 
 '''
+{
 python -m venv venv
-
+}
 '''
 Activate the virtual environment by running the following command:
 
