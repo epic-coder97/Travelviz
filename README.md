@@ -11,9 +11,9 @@ To use this application, you must first clone this repository to your local mach
 Once the repository is cloned, navigate to the project directory and create a virtual environment by running the following command:
 
 ```
-{
+
 python -m venv venv
-}
+
 ```
 Activate the virtual environment by running the following command:
 
