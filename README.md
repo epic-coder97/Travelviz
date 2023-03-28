@@ -1,5 +1,5 @@
 # Travelviz
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://travelwiz.streamlit.app/)
 
 This is a simple Streamlit web application that generates a travel itinerary based on user inputs. The application takes in the start destination, end destination, and the number of days the user plans to travel. It then generates a detailed itinerary with recommended activities, dining options, and accommodation for each day.
 
