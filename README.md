@@ -8,8 +8,7 @@ To use this application, you must first clone this repository to your local mach
 
 bash
 
-'''
-git clone https://github.com/<username>/<repository>.git
+''' git clone https://github.com/<username>/<repository>.git
 '''
 
 Once the repository is cloned, navigate to the project directory and create a virtual environment by running the following command:
